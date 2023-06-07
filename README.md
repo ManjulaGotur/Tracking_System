@@ -47,4 +47,5 @@ All routes created by the customer can be saved and downloaded in the excel tabl
 - React - Redux
 - Node JS
 - Tailwind CSS
+- React Leaflet
 - React Chart JS
